@@ -1,0 +1,27 @@
+# Ignore Visual Studio temporary files, build results, and
+# build logs.
+*.log
+*.obj
+*.exe
+*.dll
+*.pdb
+*.cache
+*.ilk
+*.meta
+*.tlog
+*.tmp
+*.user
+*.csproj.user
+*.rsuser
+*.suo
+*.xproj
+*.VC.db
+*.VC.VC.opendb
+.vs/
+
+# Ignore build outputs
+/bin
+/obj
+
+# Ignore NuGet packages
+*.nupkg
